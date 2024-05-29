@@ -1,5 +1,7 @@
 # OpenSSH InfoLeak Exploit
 
+I do not have a twitter account you can contact me here https://www.linkedin.com/in/clumsy/
+
 This repository contains a script for exploiting an information leak in OpenSSH. The exploit is designed to demonstrate a vulnerability by leveraging certain OpenSSH features.
 
 ## By SleepTheGod
